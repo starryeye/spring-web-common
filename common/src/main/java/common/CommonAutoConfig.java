@@ -9,7 +9,7 @@ import org.springframework.context.annotation.Bean;
 
 @AutoConfiguration
 @ConditionalOnWebApplication
-@ConditionalOnProperty(name = "common", havingValue = "on")
+@ConditionalOnProperty(value = "common.enable", havingValue = "true")
 public class CommonAutoConfig {
 
     @Bean
