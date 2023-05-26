@@ -1,5 +1,5 @@
 # spring-web-common
-Spring AucoConfiguration 기술을 사용하여  
+Spring AutoConfiguration 기술을 사용하여  
 아래와 같은 일반적으로 많이 사용하는 클래스를 제공한다.
 - 최상위 exception
 - 기본 errorCode
