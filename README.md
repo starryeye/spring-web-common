@@ -6,6 +6,9 @@ Spring AucoConfiguration 기술을 사용하여
 - 기본 controllerAdvice
 - 공통 response 객체
 - request id 부여하는 최우선 interceptor
+  
+주의
+- 주관적인 web response 와 예외 처리 정책이 녹여져있다..  
 
 ## Dependency
 - Spring boot Web 3.0.5
